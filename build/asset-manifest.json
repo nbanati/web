@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.df898785.chunk.css",
-    "main.js": "/static/js/main.b8fea0ed.chunk.js",
-    "main.js.map": "/static/js/main.b8fea0ed.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3619f070.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3619f070.js.map",
-    "static/css/2.e6f51e71.chunk.css": "/static/css/2.e6f51e71.chunk.css",
-    "static/js/2.d69c3033.chunk.js": "/static/js/2.d69c3033.chunk.js",
-    "static/js/2.d69c3033.chunk.js.map": "/static/js/2.d69c3033.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.65951d4d7b4f080c6188087868baca53.js": "/precache-manifest.65951d4d7b4f080c6188087868baca53.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e6f51e71.chunk.css.map": "/static/css/2.e6f51e71.chunk.css.map",
-    "static/css/main.df898785.chunk.css.map": "/static/css/main.df898785.chunk.css.map",
-    "static/js/2.d69c3033.chunk.js.LICENSE.txt": "/static/js/2.d69c3033.chunk.js.LICENSE.txt",
-    "static/media/Education.png": "/static/media/Education.cbc97268.png",
-    "static/media/Projects.png": "/static/media/Projects.925cf17e.png",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/job.jpg": "/static/media/job.c557150a.jpg",
-    "static/media/namanweb.png": "/static/media/namanweb.972aa448.png"
+    "main.css": "/web/static/css/main.df898785.chunk.css",
+    "main.js": "/web/static/js/main.19cde81d.chunk.js",
+    "main.js.map": "/web/static/js/main.19cde81d.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.9d04dc23.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.9d04dc23.js.map",
+    "static/css/2.29b1e987.chunk.css": "/web/static/css/2.29b1e987.chunk.css",
+    "static/js/2.d69c3033.chunk.js": "/web/static/js/2.d69c3033.chunk.js",
+    "static/js/2.d69c3033.chunk.js.map": "/web/static/js/2.d69c3033.chunk.js.map",
+    "index.html": "/web/index.html",
+    "precache-manifest.e99e06b66e5fe95d9dbf67a6675c3563.js": "/web/precache-manifest.e99e06b66e5fe95d9dbf67a6675c3563.js",
+    "service-worker.js": "/web/service-worker.js",
+    "static/css/2.29b1e987.chunk.css.map": "/web/static/css/2.29b1e987.chunk.css.map",
+    "static/css/main.df898785.chunk.css.map": "/web/static/css/main.df898785.chunk.css.map",
+    "static/js/2.d69c3033.chunk.js.LICENSE.txt": "/web/static/js/2.d69c3033.chunk.js.LICENSE.txt",
+    "static/media/Education.png": "/web/static/media/Education.cbc97268.png",
+    "static/media/Projects.png": "/web/static/media/Projects.925cf17e.png",
+    "static/media/font-awesome.min.css": "/web/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/job.jpg": "/web/static/media/job.c557150a.jpg",
+    "static/media/namanweb.png": "/web/static/media/namanweb.972aa448.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3619f070.js",
-    "static/css/2.e6f51e71.chunk.css",
+    "static/js/runtime-main.9d04dc23.js",
+    "static/css/2.29b1e987.chunk.css",
     "static/js/2.d69c3033.chunk.js",
     "static/css/main.df898785.chunk.css",
-    "static/js/main.b8fea0ed.chunk.js"
+    "static/js/main.19cde81d.chunk.js"
   ]
 }

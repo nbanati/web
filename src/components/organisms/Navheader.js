@@ -16,7 +16,7 @@ const Navheader=(props)=>{
                 <i className="fa fa-bars" onClick={openNavigation}></i>
             </span>
             <div className="Logo">
-                <NavLink exact className="NavLink" activeClassName="active" to={process.env.PUBLIC_URL+"/"}>
+                <NavLink exact className="NavLink" activeClassName="active" to="/">
                     Naman Banati
                 </NavLink>
             </div>
