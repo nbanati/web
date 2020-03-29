@@ -18,7 +18,7 @@ ReactDOM.render(
     <Router>
       <Navheader />
       <Switch>
-        <Route exact path="/" component={App} />
+        <Route exact path={process.env.PUBLIC_URL+"/"} component={App} />
         <Route path="/education" component={Education} />
         <Route path="/experience" component={Experience} />
         <Route path="/projects" component={Projects} />
