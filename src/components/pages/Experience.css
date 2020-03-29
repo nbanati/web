@@ -1,0 +1,36 @@
+ul.exList{
+    position: relative;
+    list-style: none;
+    left:15px;
+}
+
+/* bullets */
+ul.exList li:before {
+    content: url('../../images/bn3.png');
+    position: absolute;
+    left:-10px;
+    z-index: 999;
+}
+
+/* pipes */
+ul.exList li:after {
+    content:"";
+    position: absolute;
+    left: 5px;
+    border-left: 7px solid black;
+    height: 85px;
+    width: 1px;
+    margin-top:-65px;
+}
+
+ul.exList li:last-child::after{
+    height: 0px;
+}
+
+@media screen and (min-width: 768px) {
+    ul.exList{
+        position: relative;
+        list-style: none;
+        left:10%;
+    }
+}

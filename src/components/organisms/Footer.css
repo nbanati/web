@@ -1,0 +1,21 @@
+.love{
+    text-align: center;
+    margin: 15px auto;
+}
+
+.ruler{
+    width:75%;
+    background-color:black;
+}
+
+.accounts{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.notext{
+    text-decoration: none;
+    color: inherit;
+}

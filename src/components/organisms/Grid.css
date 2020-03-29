@@ -1,0 +1,51 @@
+.Grid{
+    background-color:orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gridElement{
+    text-align: center;
+    flex-grow: 1;
+    width:33.3%;
+    min-height: 250px;
+    position: relative;
+}
+
+.gridElement:hover{
+    opacity: 0.2;
+}
+
+.gridImage{
+    max-width: 80%;
+    max-height: 80%;
+    height: auto;
+    position: absolute;
+    left:25%;
+    bottom: 10%;
+}
+
+.gridImage:hover{
+    transform: scale(1.2);
+}
+
+.imgtext{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+    font-size: x-large;
+    color:gold;
+}
+
+@media screen and (max-width: 768px) {
+    .gridElement{
+        text-align: center;
+        flex-grow: 1;
+        width:100%;
+        min-height: 250px;
+        position: relative;
+    }
+
+}
